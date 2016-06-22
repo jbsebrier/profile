@@ -1,6 +1,6 @@
 #side-bar {
   position: fixed;
-  width: 80px;
+  width: 60px;
   left: 0;
   top: 0;
   bottom: 0;
@@ -10,11 +10,9 @@
 }
 
 .side-bar-list {
-list-style-type: none;
-
 text-align: center;
-display: inline-block
-margin: 20px;
+display: inline-block;
+margin: 10px;
 }
 
 
