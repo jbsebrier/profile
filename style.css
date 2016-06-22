@@ -1,0 +1,97 @@
+body {
+  font-family: Roboto;
+  color: #5A5A5A;
+  font-size: 11px;
+  background: rgb(230, 230, 230);
+  text-align: center;
+
+}
+
+a{
+  text-decoration: none;
+  color: #D0D0D0;
+}
+
+a:hover{
+  color: #E64A46;
+}
+
+.movie-image {
+  width: 90px;
+}
+
+#profile-pic {
+width: 120px;
+border-radius: 50%;
+border: 2px solid #A7A7A7;
+box-shadow: 1px 1px 1px #C1C1C1 ;
+text-align: center;
+}
+
+h1 {
+font-size: 15px;
+font-family: Raleway;
+color: #9F2232;
+}
+
+h2 {
+font-size: 14px;
+font-family: Raleway;
+}
+
+h3 {
+font-size: 13px;
+font-family: Raleway;
+}
+
+tbody {
+  font-family: Roboto;
+  color: #5A5A5A;
+  font-size: 11px
+}
+
+.container {
+width: 500px;
+margin:0 auto;
+}
+
+.card {
+background: white;
+border: 1px solid rgba(200, 200, 200, 0.6);
+box-shadow: 1px 1px 1px rgb(220, 220, 220) ;
+border-radius: 6px;
+margin: 15px;
+padding: 15px;
+padding-top: 25px;
+padding-bottom: 25px
+}
+
+.list-inline {
+font-size: 18px;
+padding-left: 0px;
+display: block;
+list-style-type: none;
+display: inline-block;
+}
+
+.list-inline > li {
+display: inline-block;
+padding: 10px;
+margin: 20px;
+}
+
+.red-button {
+background-color: #E2324A;
+color: rgb(255, 255, 255);
+padding: 10px;
+margin: 10px;
+border-radius: 5px;
+}
+
+.red-button:hover {
+background-color: #9F2232;
+color: rgb(255, 255, 255);
+};
+
+
+
