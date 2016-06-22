@@ -23,7 +23,7 @@ margin: 10px;
 body {
   font-family: Roboto;
   color: #5A5A5A;
-  font-size: 11px;
+  font-size: 13px;
   background: rgb(230, 230, 230);
   text-align: center;
 }
@@ -56,25 +56,25 @@ margin: 15px;
 }
 
 h1 {
-font-size: 15px;
+font-size: 20px;
 font-family: Raleway;
 color: #9F2232;
 }
 
 h2 {
-font-size: 14px;
+font-size: 16px;
 font-family: Raleway;
 }
 
 h3 {
-font-size: 13px;
+font-size: 15px;
 font-family: Raleway;
 }
 
 tbody {
   font-family: Roboto;
   color: #5A5A5A;
-  font-size: 11px
+  font-size: 13px
 }
 
 .container {
