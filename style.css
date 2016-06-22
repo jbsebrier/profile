@@ -1,9 +1,37 @@
+#side-bar {
+  position: fixed;
+  width: 80px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: #3F3F3F;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.side-bar-list {
+list-style-type: none;
+
+text-align: center;
+display: inline-block
+margin: 20px;
+}
+
+
+#page-content {
+  margin-left: 100px;
+}
+
 body {
   font-family: Roboto;
   color: #5A5A5A;
   font-size: 11px;
   background: rgb(230, 230, 230);
   text-align: center;
+}
+
+p {
+padding-bottom: 20px;
 
 }
 
@@ -26,6 +54,7 @@ border-radius: 50%;
 border: 2px solid #A7A7A7;
 box-shadow: 1px 1px 1px #C1C1C1 ;
 text-align: center;
+margin: 15px;
 }
 
 h1 {
@@ -51,7 +80,7 @@ tbody {
 }
 
 .container {
-width: 500px;
+width: 600px;
 margin:0 auto;
 }
 
@@ -76,15 +105,15 @@ display: inline-block;
 
 .list-inline > li {
 display: inline-block;
-padding: 10px;
-margin: 20px;
+padding: 5px;
+margin: 5px;
 }
 
 .red-button {
 background-color: #E2324A;
 color: rgb(255, 255, 255);
 padding: 10px;
-margin: 10px;
+margin: 1px;
 border-radius: 5px;
 }
 
